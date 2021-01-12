@@ -8,7 +8,7 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-from new_backend import *
+from src import *
 import json
 import requests
 
