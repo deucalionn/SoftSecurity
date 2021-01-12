@@ -52,7 +52,7 @@ def p_site(pdf_report, pdf_report_global):
         obj = json.load(f)
     OBJ = obj["site"]
     total_p = len(OBJ)
-    print(total_p)
+    #print(total_p)
     i = 0
     bloqued_p = 0
     result_porno = {}
