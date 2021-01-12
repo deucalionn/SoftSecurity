@@ -1,5 +1,6 @@
 # SoftSecurity
-SoftSecurity is a cross platform application create with PyQt5 to test efficiency of IDS or firewall
+SoftSecurity is a cross platform application create with PyQt5 to test efficiency of IDS or firewall.
+
 
 
 # How ?
@@ -24,3 +25,5 @@ pip install py-notifier
 for windows users:
 pip install win10toast
 
+# Use:
+python3 main.py
