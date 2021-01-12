@@ -1,0 +1,13 @@
+
+all distribution:
+requests
+json
+pyqt5
+fpdf
+plateform
+py-notifier
+
+windows:
+win10toast
+
+

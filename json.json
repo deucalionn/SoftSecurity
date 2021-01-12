@@ -1,0 +1,38 @@
+
+{
+  "site": [
+    "https://www.xlovecam.com/",
+    "https://fr.pornhub.com/",
+    "https://tukif.com/",
+    "https://www.xnxx.com/"
+
+  ],
+
+  "bank": [
+    "https://www.labanquepostale.fr/",
+    "https://www.lcl.fr/"
+
+  ],
+
+  "iptor": [
+    "103.208.220.226",
+    "103.228.53.155"
+
+  ],
+  
+  "malware_site": [
+    "http://malware.wicar.org/data/eicar.com",
+    "http://malware.wicar.org/data/ms14_064_ole_xp.html",
+    "http://malware.wicar.org/data/ms14_064_ole_not_xp.html",
+    "http://malware.wicar.org/data/java_jre17_exec.html",
+    "http://malware.wicar.org/data/ms03_020_ie_objecttype.html",
+    "http://malware.wicar.org/data/ms05_054_onload.html",
+    "http://malware.wicar.org/data/ms09_002_memory_corruption.html",
+    "http://malware.wicar.org/data/ms09_072_style_object.html",
+    "http://malware.wicar.org/data/ms10_090_ie_css_clip_ie6.html",
+    "http://malware.wicar.org/data/firefox_proto_crmfrequest.html",
+    "http://malware.wicar.org/data/vlc_amv.html",
+    "http://malware.wicar.org/data/adobe_flash_hacking_team_uaf.html"
+  ]
+}
+
